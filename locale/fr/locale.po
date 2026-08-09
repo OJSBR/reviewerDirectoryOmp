@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+
+msgid "plugins.generic.reviewerDirectory.displayName"
+msgstr "Répertoire des évaluateurs"
+
+msgid "plugins.generic.reviewerDirectory.description"
+msgstr "Ajoute une page interne, réservée aux gestionnaires et aux rédacteurs, pour consulter et filtrer tous les évaluateurs enregistrés dans la maison d’édition, avec leurs profils et leurs statistiques d'évaluation."
+
+msgid "plugins.generic.reviewerDirectory.openDirectory"
+msgstr "Ouvrir le répertoire"
+
+msgid "plugins.generic.reviewerDirectory.searchPlaceholder"
+msgstr "Rechercher par nom, affiliation, pays, centre d'intérêt, courriel..."
+
+msgid "plugins.generic.reviewerDirectory.onlyOrcid"
+msgstr "Uniquement avec ORCID"
+
+msgid "plugins.generic.reviewerDirectory.showing"
+msgstr "Affichage de"
+
+msgid "plugins.generic.reviewerDirectory.of"
+msgstr "sur"
+
+msgid "plugins.generic.reviewerDirectory.noReviewers"
+msgstr "Aucun évaluateur enregistré dans cette maison d’édition."
+
+msgid "plugins.generic.reviewerDirectory.reviewsCompleted"
+msgstr "Évaluations terminées"
+
+msgid "plugins.generic.reviewerDirectory.reviewsActive"
+msgstr "Évaluations en cours"
+
+msgid "plugins.generic.reviewerDirectory.reviewsDeclined"
+msgstr "Évaluations refusées"
+
+msgid "plugins.generic.reviewerDirectory.averageDays"
+msgstr "Nombre moyen de jours pour terminer"
+
+msgid "plugins.generic.reviewerDirectory.rating"
+msgstr "Note de qualité (1 à 5)"
+
+msgid "plugins.generic.reviewerDirectory.completedShort"
+msgstr "Term."
+
+msgid "plugins.generic.reviewerDirectory.activeShort"
+msgstr "En cours"
+
+msgid "plugins.generic.reviewerDirectory.declinedShort"
+msgstr "Ref."
+
+msgid "plugins.generic.reviewerDirectory.averageShort"
+msgstr "Moy. (j)"
+
+msgid "plugins.generic.reviewerDirectory.ratingShort"
+msgstr "Note"
+
+msgid "plugins.generic.reviewerDirectory.lastAssigned"
+msgstr "Dernière assignation"
+
+msgid "plugins.generic.reviewerDirectory.lastCompleted"
+msgstr "Dernier achèvement"
+
+msgid "plugins.generic.reviewerDirectory.orcidVerified"
+msgstr "ORCID vérifié"
+
+msgid "plugins.generic.reviewerDirectory.columns"
+msgstr "Colonnes"
+
+msgid "plugins.generic.reviewerDirectory.export"
+msgstr "Exporter (Excel)"
+
+msgid "plugins.generic.reviewerDirectory.tabDirectory"
+msgstr "Répertoire"
+
+msgid "plugins.generic.reviewerDirectory.tabNominata"
+msgstr "Liste de remerciements"
+
+msgid "plugins.generic.reviewerDirectory.nominataIntro"
+msgstr "Saisissez une période (date d'achèvement de l'évaluation) et/ou un numéro pour lister les évaluateurs ayant terminé des évaluations dans le périmètre sélectionné. Utile pour publier la liste de remerciements aux évaluateurs."
+
+msgid "plugins.generic.reviewerDirectory.dateFrom"
+msgstr "Terminées à partir du"
+
+msgid "plugins.generic.reviewerDirectory.dateTo"
+msgstr "Terminées jusqu'au"
+
+msgid "plugins.generic.reviewerDirectory.series"
+msgstr "Collection"
+
+msgid "plugins.generic.reviewerDirectory.allSeries"
+msgstr "Toutes les collections"
+
+msgid "plugins.generic.reviewerDirectory.generate"
+msgstr "Générer la liste"
+
+msgid "plugins.generic.reviewerDirectory.nominataEmpty"
+msgstr "Aucun évaluateur n'a terminé d'évaluation dans le périmètre sélectionné."
+
+msgid "plugins.generic.reviewerDirectory.nominataSummary"
+msgstr "{$n} évaluateur(s) ont terminé {$reviews} évaluation(s) dans le périmètre sélectionné."
+
+msgid "plugins.generic.reviewerDirectory.reviewsInScope"
+msgstr "Évaluations terminées dans le périmètre"
+
+msgid "plugins.generic.reviewerDirectory.submissions"
+msgstr "Soumissions"
+
+msgid "plugins.generic.reviewerDirectory.firstDate"
+msgstr "Première"
+
+msgid "plugins.generic.reviewerDirectory.lastDate"
+msgstr "Dernière"

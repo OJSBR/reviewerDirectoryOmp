@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+
+msgid "plugins.generic.reviewerDirectory.displayName"
+msgstr "Gutachterverzeichnis"
+
+msgid "plugins.generic.reviewerDirectory.description"
+msgstr "Fügt eine interne, auf Manager und Redakteure beschränkte Seite hinzu, um alle im Verlag registrierten Gutachter mit ihren Profilen und Begutachtungsstatistiken zu durchsuchen und zu filtern."
+
+msgid "plugins.generic.reviewerDirectory.openDirectory"
+msgstr "Verzeichnis öffnen"
+
+msgid "plugins.generic.reviewerDirectory.searchPlaceholder"
+msgstr "Suche nach Name, Zugehörigkeit, Land, Interesse, E-Mail..."
+
+msgid "plugins.generic.reviewerDirectory.onlyOrcid"
+msgstr "Nur mit ORCID"
+
+msgid "plugins.generic.reviewerDirectory.showing"
+msgstr "Zeige"
+
+msgid "plugins.generic.reviewerDirectory.of"
+msgstr "von"
+
+msgid "plugins.generic.reviewerDirectory.noReviewers"
+msgstr "Keine Gutachter in diesem Verlag registriert."
+
+msgid "plugins.generic.reviewerDirectory.reviewsCompleted"
+msgstr "Abgeschlossene Gutachten"
+
+msgid "plugins.generic.reviewerDirectory.reviewsActive"
+msgstr "Laufende Gutachten"
+
+msgid "plugins.generic.reviewerDirectory.reviewsDeclined"
+msgstr "Abgelehnte Gutachten"
+
+msgid "plugins.generic.reviewerDirectory.averageDays"
+msgstr "Durchschnittliche Tage bis zum Abschluss"
+
+msgid "plugins.generic.reviewerDirectory.rating"
+msgstr "Qualitätsbewertung (1 bis 5)"
+
+msgid "plugins.generic.reviewerDirectory.completedShort"
+msgstr "Abgeschl."
+
+msgid "plugins.generic.reviewerDirectory.activeShort"
+msgstr "Aktiv"
+
+msgid "plugins.generic.reviewerDirectory.declinedShort"
+msgstr "Abgel."
+
+msgid "plugins.generic.reviewerDirectory.averageShort"
+msgstr "Ø (T)"
+
+msgid "plugins.generic.reviewerDirectory.ratingShort"
+msgstr "Bewertung"
+
+msgid "plugins.generic.reviewerDirectory.lastAssigned"
+msgstr "Letzte Zuweisung"
+
+msgid "plugins.generic.reviewerDirectory.lastCompleted"
+msgstr "Letzter Abschluss"
+
+msgid "plugins.generic.reviewerDirectory.orcidVerified"
+msgstr "Verifizierte ORCID"
+
+msgid "plugins.generic.reviewerDirectory.columns"
+msgstr "Spalten"
+
+msgid "plugins.generic.reviewerDirectory.export"
+msgstr "Export (Excel)"
+
+msgid "plugins.generic.reviewerDirectory.tabDirectory"
+msgstr "Verzeichnis"
+
+msgid "plugins.generic.reviewerDirectory.tabNominata"
+msgstr "Danksagungsliste"
+
+msgid "plugins.generic.reviewerDirectory.nominataIntro"
+msgstr "Geben Sie einen Zeitraum (Abschlussdatum der Begutachtung) und/oder eine Ausgabe ein, um die Gutachter aufzulisten, die im ausgewählten Bereich Gutachten abgeschlossen haben. Nützlich für die Veröffentlichung der Danksagungsliste der Gutachter."
+
+msgid "plugins.generic.reviewerDirectory.dateFrom"
+msgstr "Abgeschlossen ab"
+
+msgid "plugins.generic.reviewerDirectory.dateTo"
+msgstr "Abgeschlossen bis"
+
+msgid "plugins.generic.reviewerDirectory.series"
+msgstr "Reihe"
+
+msgid "plugins.generic.reviewerDirectory.allSeries"
+msgstr "Alle Reihen"
+
+msgid "plugins.generic.reviewerDirectory.generate"
+msgstr "Liste erstellen"
+
+msgid "plugins.generic.reviewerDirectory.nominataEmpty"
+msgstr "Kein Gutachter hat im ausgewählten Bereich Gutachten abgeschlossen."
+
+msgid "plugins.generic.reviewerDirectory.nominataSummary"
+msgstr "{$n} Gutachter haben {$reviews} Gutachten im ausgewählten Bereich abgeschlossen."
+
+msgid "plugins.generic.reviewerDirectory.reviewsInScope"
+msgstr "Im Bereich abgeschlossene Gutachten"
+
+msgid "plugins.generic.reviewerDirectory.submissions"
+msgstr "Einreichungen"
+
+msgid "plugins.generic.reviewerDirectory.firstDate"
+msgstr "Erste"
+
+msgid "plugins.generic.reviewerDirectory.lastDate"
+msgstr "Letzte"

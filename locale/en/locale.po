@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+
+msgid "plugins.generic.reviewerDirectory.displayName"
+msgstr "Reviewer Directory"
+
+msgid "plugins.generic.reviewerDirectory.description"
+msgstr "Adds an internal page, restricted to managers and editors, to browse and filter every reviewer registered in the press, with their profiles and review statistics."
+
+msgid "plugins.generic.reviewerDirectory.openDirectory"
+msgstr "Open directory"
+
+msgid "plugins.generic.reviewerDirectory.searchPlaceholder"
+msgstr "Search by name, affiliation, country, interest, email..."
+
+msgid "plugins.generic.reviewerDirectory.onlyOrcid"
+msgstr "Only with ORCID"
+
+msgid "plugins.generic.reviewerDirectory.showing"
+msgstr "Showing"
+
+msgid "plugins.generic.reviewerDirectory.of"
+msgstr "of"
+
+msgid "plugins.generic.reviewerDirectory.noReviewers"
+msgstr "No reviewers registered in this press."
+
+msgid "plugins.generic.reviewerDirectory.reviewsCompleted"
+msgstr "Reviews completed"
+
+msgid "plugins.generic.reviewerDirectory.reviewsActive"
+msgstr "Reviews in progress"
+
+msgid "plugins.generic.reviewerDirectory.reviewsDeclined"
+msgstr "Reviews declined"
+
+msgid "plugins.generic.reviewerDirectory.averageDays"
+msgstr "Average days to complete"
+
+msgid "plugins.generic.reviewerDirectory.rating"
+msgstr "Quality rating (1 to 5)"
+
+msgid "plugins.generic.reviewerDirectory.completedShort"
+msgstr "Compl."
+
+msgid "plugins.generic.reviewerDirectory.activeShort"
+msgstr "Active"
+
+msgid "plugins.generic.reviewerDirectory.declinedShort"
+msgstr "Decl."
+
+msgid "plugins.generic.reviewerDirectory.averageShort"
+msgstr "Avg (d)"
+
+msgid "plugins.generic.reviewerDirectory.ratingShort"
+msgstr "Rating"
+
+msgid "plugins.generic.reviewerDirectory.lastAssigned"
+msgstr "Last assignment"
+
+msgid "plugins.generic.reviewerDirectory.lastCompleted"
+msgstr "Last completion"
+
+msgid "plugins.generic.reviewerDirectory.orcidVerified"
+msgstr "Verified ORCID"
+
+msgid "plugins.generic.reviewerDirectory.columns"
+msgstr "Columns"
+
+msgid "plugins.generic.reviewerDirectory.export"
+msgstr "Export (Excel)"
+
+msgid "plugins.generic.reviewerDirectory.tabDirectory"
+msgstr "Directory"
+
+msgid "plugins.generic.reviewerDirectory.tabNominata"
+msgstr "Roster"
+
+msgid "plugins.generic.reviewerDirectory.nominataIntro"
+msgstr "Enter a period (review completion date) and/or an issue to list the reviewers who completed reviews within the selected scope. Useful for publishing the reviewer acknowledgement roster."
+
+msgid "plugins.generic.reviewerDirectory.dateFrom"
+msgstr "Completed from"
+
+msgid "plugins.generic.reviewerDirectory.dateTo"
+msgstr "Completed to"
+
+msgid "plugins.generic.reviewerDirectory.series"
+msgstr "Series"
+
+msgid "plugins.generic.reviewerDirectory.allSeries"
+msgstr "All series"
+
+msgid "plugins.generic.reviewerDirectory.generate"
+msgstr "Generate roster"
+
+msgid "plugins.generic.reviewerDirectory.nominataEmpty"
+msgstr "No reviewer completed reviews within the selected scope."
+
+msgid "plugins.generic.reviewerDirectory.nominataSummary"
+msgstr "{$n} reviewer(s) completed {$reviews} review(s) within the selected scope."
+
+msgid "plugins.generic.reviewerDirectory.reviewsInScope"
+msgstr "Reviews completed in scope"
+
+msgid "plugins.generic.reviewerDirectory.submissions"
+msgstr "Submissions"
+
+msgid "plugins.generic.reviewerDirectory.firstDate"
+msgstr "First"
+
+msgid "plugins.generic.reviewerDirectory.lastDate"
+msgstr "Last"

@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+
+msgid "plugins.generic.reviewerDirectory.displayName"
+msgstr "Diretório de Avaliadores"
+
+msgid "plugins.generic.reviewerDirectory.description"
+msgstr "Adiciona uma página interna, restrita a gerentes e editores, para consultar e filtrar todos os avaliadores cadastrados na editora, com seus perfis e estatísticas de revisão."
+
+msgid "plugins.generic.reviewerDirectory.openDirectory"
+msgstr "Abrir diretório"
+
+msgid "plugins.generic.reviewerDirectory.searchPlaceholder"
+msgstr "Buscar por nome, afiliação, país, interesse, e-mail..."
+
+msgid "plugins.generic.reviewerDirectory.onlyOrcid"
+msgstr "Somente com ORCID"
+
+msgid "plugins.generic.reviewerDirectory.showing"
+msgstr "Mostrando"
+
+msgid "plugins.generic.reviewerDirectory.of"
+msgstr "de"
+
+msgid "plugins.generic.reviewerDirectory.noReviewers"
+msgstr "Nenhum avaliador cadastrado nesta editora."
+
+msgid "plugins.generic.reviewerDirectory.reviewsCompleted"
+msgstr "Revisões concluídas"
+
+msgid "plugins.generic.reviewerDirectory.reviewsActive"
+msgstr "Revisões em andamento"
+
+msgid "plugins.generic.reviewerDirectory.reviewsDeclined"
+msgstr "Revisões recusadas"
+
+msgid "plugins.generic.reviewerDirectory.averageDays"
+msgstr "Média de dias para concluir"
+
+msgid "plugins.generic.reviewerDirectory.rating"
+msgstr "Avaliação de qualidade (1 a 5)"
+
+msgid "plugins.generic.reviewerDirectory.completedShort"
+msgstr "Concl."
+
+msgid "plugins.generic.reviewerDirectory.activeShort"
+msgstr "Ativas"
+
+msgid "plugins.generic.reviewerDirectory.declinedShort"
+msgstr "Recus."
+
+msgid "plugins.generic.reviewerDirectory.averageShort"
+msgstr "Média (d)"
+
+msgid "plugins.generic.reviewerDirectory.ratingShort"
+msgstr "Nota"
+
+msgid "plugins.generic.reviewerDirectory.lastAssigned"
+msgstr "Última designação"
+
+msgid "plugins.generic.reviewerDirectory.lastCompleted"
+msgstr "Última conclusão"
+
+msgid "plugins.generic.reviewerDirectory.orcidVerified"
+msgstr "ORCID autenticado"
+
+msgid "plugins.generic.reviewerDirectory.columns"
+msgstr "Colunas"
+
+msgid "plugins.generic.reviewerDirectory.export"
+msgstr "Exportar (Excel)"
+
+msgid "plugins.generic.reviewerDirectory.tabDirectory"
+msgstr "Diretório"
+
+msgid "plugins.generic.reviewerDirectory.tabNominata"
+msgstr "Nominata"
+
+msgid "plugins.generic.reviewerDirectory.nominataIntro"
+msgstr "Informe um período (data de conclusão da avaliação) e/ou uma edição para listar os avaliadores que concluíram avaliações no escopo selecionado. Útil para publicar a nominata de agradecimento aos avaliadores."
+
+msgid "plugins.generic.reviewerDirectory.dateFrom"
+msgstr "Concluídas a partir de"
+
+msgid "plugins.generic.reviewerDirectory.dateTo"
+msgstr "Concluídas até"
+
+msgid "plugins.generic.reviewerDirectory.series"
+msgstr "Série"
+
+msgid "plugins.generic.reviewerDirectory.allSeries"
+msgstr "Todas as séries"
+
+msgid "plugins.generic.reviewerDirectory.generate"
+msgstr "Gerar nominata"
+
+msgid "plugins.generic.reviewerDirectory.nominataEmpty"
+msgstr "Nenhum avaliador concluiu avaliações no escopo selecionado."
+
+msgid "plugins.generic.reviewerDirectory.nominataSummary"
+msgstr "{$n} avaliador(es) concluíram {$reviews} avaliação(ões) no escopo selecionado."
+
+msgid "plugins.generic.reviewerDirectory.reviewsInScope"
+msgstr "Avaliações concluídas no escopo"
+
+msgid "plugins.generic.reviewerDirectory.submissions"
+msgstr "Submissões"
+
+msgid "plugins.generic.reviewerDirectory.firstDate"
+msgstr "Primeira"
+
+msgid "plugins.generic.reviewerDirectory.lastDate"
+msgstr "Última"

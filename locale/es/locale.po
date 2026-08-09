@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+
+msgid "plugins.generic.reviewerDirectory.displayName"
+msgstr "Directorio de revisores"
+
+msgid "plugins.generic.reviewerDirectory.description"
+msgstr "Añade una página interna, restringida a gestores y editores, para consultar y filtrar todos los revisores registrados en la editorial, con sus perfiles y estadísticas de revisión."
+
+msgid "plugins.generic.reviewerDirectory.openDirectory"
+msgstr "Abrir directorio"
+
+msgid "plugins.generic.reviewerDirectory.searchPlaceholder"
+msgstr "Buscar por nombre, afiliación, país, interés, correo electrónico..."
+
+msgid "plugins.generic.reviewerDirectory.onlyOrcid"
+msgstr "Solo con ORCID"
+
+msgid "plugins.generic.reviewerDirectory.showing"
+msgstr "Mostrando"
+
+msgid "plugins.generic.reviewerDirectory.of"
+msgstr "de"
+
+msgid "plugins.generic.reviewerDirectory.noReviewers"
+msgstr "No hay revisores registrados en esta editorial."
+
+msgid "plugins.generic.reviewerDirectory.reviewsCompleted"
+msgstr "Revisiones completadas"
+
+msgid "plugins.generic.reviewerDirectory.reviewsActive"
+msgstr "Revisiones en curso"
+
+msgid "plugins.generic.reviewerDirectory.reviewsDeclined"
+msgstr "Revisiones rechazadas"
+
+msgid "plugins.generic.reviewerDirectory.averageDays"
+msgstr "Promedio de días para completar"
+
+msgid "plugins.generic.reviewerDirectory.rating"
+msgstr "Calificación de calidad (1 a 5)"
+
+msgid "plugins.generic.reviewerDirectory.completedShort"
+msgstr "Compl."
+
+msgid "plugins.generic.reviewerDirectory.activeShort"
+msgstr "Activas"
+
+msgid "plugins.generic.reviewerDirectory.declinedShort"
+msgstr "Rech."
+
+msgid "plugins.generic.reviewerDirectory.averageShort"
+msgstr "Prom. (d)"
+
+msgid "plugins.generic.reviewerDirectory.ratingShort"
+msgstr "Calif."
+
+msgid "plugins.generic.reviewerDirectory.lastAssigned"
+msgstr "Última asignación"
+
+msgid "plugins.generic.reviewerDirectory.lastCompleted"
+msgstr "Última finalización"
+
+msgid "plugins.generic.reviewerDirectory.orcidVerified"
+msgstr "ORCID verificado"
+
+msgid "plugins.generic.reviewerDirectory.columns"
+msgstr "Columnas"
+
+msgid "plugins.generic.reviewerDirectory.export"
+msgstr "Exportar (Excel)"
+
+msgid "plugins.generic.reviewerDirectory.tabDirectory"
+msgstr "Directorio"
+
+msgid "plugins.generic.reviewerDirectory.tabNominata"
+msgstr "Nómina"
+
+msgid "plugins.generic.reviewerDirectory.nominataIntro"
+msgstr "Introduzca un período (fecha de finalización de la revisión) y/o un número para listar los revisores que completaron revisiones dentro del ámbito seleccionado. Útil para publicar la nómina de agradecimiento a los revisores."
+
+msgid "plugins.generic.reviewerDirectory.dateFrom"
+msgstr "Completadas desde"
+
+msgid "plugins.generic.reviewerDirectory.dateTo"
+msgstr "Completadas hasta"
+
+msgid "plugins.generic.reviewerDirectory.series"
+msgstr "Serie"
+
+msgid "plugins.generic.reviewerDirectory.allSeries"
+msgstr "Todas las series"
+
+msgid "plugins.generic.reviewerDirectory.generate"
+msgstr "Generar nómina"
+
+msgid "plugins.generic.reviewerDirectory.nominataEmpty"
+msgstr "Ningún revisor completó revisiones dentro del ámbito seleccionado."
+
+msgid "plugins.generic.reviewerDirectory.nominataSummary"
+msgstr "{$n} revisor(es) completaron {$reviews} revisión(es) dentro del ámbito seleccionado."
+
+msgid "plugins.generic.reviewerDirectory.reviewsInScope"
+msgstr "Revisiones completadas en el ámbito"
+
+msgid "plugins.generic.reviewerDirectory.submissions"
+msgstr "Envíos"
+
+msgid "plugins.generic.reviewerDirectory.firstDate"
+msgstr "Primera"
+
+msgid "plugins.generic.reviewerDirectory.lastDate"
+msgstr "Última"
