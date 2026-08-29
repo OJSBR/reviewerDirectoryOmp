@@ -1,122 +1,120 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"Last-Translator: OJSBR\n"
-"Language-Team: OJSBR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: nl\n"
 
 
 msgid "plugins.generic.reviewerDirectory.displayName"
-msgstr "Gutachterverzeichnis"
+msgstr "Beoordelaarsoverzicht"
 
 msgid "plugins.generic.reviewerDirectory.description"
-msgstr "Fügt eine interne, auf Manager und Redakteure beschränkte Seite hinzu, um alle im Verlag registrierten Gutachter mit ihren Profilen und Begutachtungsstatistiken zu durchsuchen und zu filtern."
+msgstr "Voegt een interne pagina toe, alleen voor beheerders en redacteuren, om alle bij de uitgeverij geregistreerde beoordelaars te doorbladeren en te filteren, met hun profielen en beoordelingsstatistieken."
 
 msgid "plugins.generic.reviewerDirectory.openDirectory"
-msgstr "Verzeichnis öffnen"
+msgstr "Overzicht openen"
 
 msgid "plugins.generic.reviewerDirectory.searchPlaceholder"
-msgstr "Suche nach Name, Zugehörigkeit, Land, Interesse, E-Mail..."
+msgstr "Zoeken op naam, affiliatie, land, interesse, e-mail…"
 
 msgid "plugins.generic.reviewerDirectory.onlyOrcid"
-msgstr "Nur mit ORCID"
+msgstr "Alleen met ORCID"
 
 msgid "plugins.generic.reviewerDirectory.showing"
-msgstr "Zeige"
+msgstr "Weergegeven"
 
 msgid "plugins.generic.reviewerDirectory.of"
-msgstr "von"
+msgstr "van"
 
 msgid "plugins.generic.reviewerDirectory.noReviewers"
-msgstr "Keine Gutachter in diesem Verlag registriert."
+msgstr "Er zijn geen beoordelaars geregistreerd bij deze uitgeverij."
 
 msgid "plugins.generic.reviewerDirectory.reviewsCompleted"
-msgstr "Abgeschlossene Gutachten"
+msgstr "Voltooide beoordelingen"
 
 msgid "plugins.generic.reviewerDirectory.reviewsActive"
-msgstr "Laufende Gutachten"
+msgstr "Lopende beoordelingen"
 
 msgid "plugins.generic.reviewerDirectory.reviewsDeclined"
-msgstr "Abgelehnte Gutachten"
+msgstr "Geweigerde beoordelingen"
 
 msgid "plugins.generic.reviewerDirectory.averageDays"
-msgstr "Durchschnittliche Tage bis zum Abschluss"
+msgstr "Gemiddeld aantal dagen tot voltooiing"
 
 msgid "plugins.generic.reviewerDirectory.rating"
-msgstr "Qualitätsbewertung (1 bis 5)"
+msgstr "Kwaliteitsbeoordeling (1 tot 5)"
 
 msgid "plugins.generic.reviewerDirectory.completedShort"
-msgstr "Abgeschl."
+msgstr "Voltooid"
 
 msgid "plugins.generic.reviewerDirectory.activeShort"
-msgstr "Aktiv"
+msgstr "Actief"
 
 msgid "plugins.generic.reviewerDirectory.declinedShort"
-msgstr "Abgel."
+msgstr "Afgew."
 
 msgid "plugins.generic.reviewerDirectory.averageShort"
-msgstr "Ø (T)"
+msgstr "Gem. (d)"
 
 msgid "plugins.generic.reviewerDirectory.ratingShort"
-msgstr "Bewertung"
+msgstr "Beoordeling"
 
 msgid "plugins.generic.reviewerDirectory.lastAssigned"
-msgstr "Letzte Zuweisung"
+msgstr "Laatste toewijzing"
 
 msgid "plugins.generic.reviewerDirectory.lastCompleted"
-msgstr "Letzter Abschluss"
+msgstr "Laatste voltooiing"
 
 msgid "plugins.generic.reviewerDirectory.orcidVerified"
-msgstr "Verifizierte ORCID"
+msgstr "Geverifieerde ORCID"
 
 msgid "plugins.generic.reviewerDirectory.columns"
-msgstr "Spalten"
+msgstr "Kolommen"
 
 msgid "plugins.generic.reviewerDirectory.export"
-msgstr "Export (Excel)"
+msgstr "Exporteren (Excel)"
 
 msgid "plugins.generic.reviewerDirectory.tabDirectory"
-msgstr "Verzeichnis"
+msgstr "Overzicht"
 
 msgid "plugins.generic.reviewerDirectory.tabNominata"
-msgstr "Danksagungsliste"
+msgstr "Lijst"
 
 msgid "plugins.generic.reviewerDirectory.nominataIntro"
-msgstr "Geben Sie einen Zeitraum (Abschlussdatum der Begutachtung) und/oder eine Ausgabe ein, um die Gutachter aufzulisten, die im ausgewählten Bereich Gutachten abgeschlossen haben. Nützlich für die Veröffentlichung der Danksagungsliste der Gutachter."
+msgstr "Voer een periode (datum waarop de beoordeling is voltooid) en/of een nummer in om de beoordelaars te tonen die binnen het gekozen bereik beoordelingen hebben voltooid. Handig om de dankbetuiging aan beoordelaars te publiceren."
 
 msgid "plugins.generic.reviewerDirectory.dateFrom"
-msgstr "Abgeschlossen ab"
+msgstr "Voltooid vanaf"
 
 msgid "plugins.generic.reviewerDirectory.dateTo"
-msgstr "Abgeschlossen bis"
+msgstr "Voltooid tot"
 
 msgid "plugins.generic.reviewerDirectory.series"
-msgstr "Reihe"
+msgstr "Reeks"
 
 msgid "plugins.generic.reviewerDirectory.allSeries"
-msgstr "Alle Reihen"
+msgstr "Alle reeksen"
 
 msgid "plugins.generic.reviewerDirectory.generate"
-msgstr "Liste erstellen"
+msgstr "Lijst genereren"
 
 msgid "plugins.generic.reviewerDirectory.nominataEmpty"
-msgstr "Kein Gutachter hat im ausgewählten Bereich Gutachten abgeschlossen."
+msgstr "Geen enkele beoordelaar heeft beoordelingen voltooid binnen het geselecteerde bereik."
 
 msgid "plugins.generic.reviewerDirectory.nominataSummary"
-msgstr "{$n} Gutachter haben {$reviews} Gutachten im ausgewählten Bereich abgeschlossen."
+msgstr "{$n} beoordelaar(s) hebben {$reviews} beoordeling(en) voltooid binnen het geselecteerde bereik."
 
 msgid "plugins.generic.reviewerDirectory.reviewsInScope"
-msgstr "Im Bereich abgeschlossene Gutachten"
+msgstr "Beoordelingen voltooid binnen het bereik"
 
 msgid "plugins.generic.reviewerDirectory.submissions"
-msgstr "Einreichungen"
+msgstr "Inzendingen"
 
 msgid "plugins.generic.reviewerDirectory.firstDate"
-msgstr "Erste"
+msgstr "Eerste"
 
 msgid "plugins.generic.reviewerDirectory.lastDate"
-msgstr "Letzte"
+msgstr "Laatste"

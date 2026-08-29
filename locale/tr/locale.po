@@ -1,122 +1,157 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"Last-Translator: OJSBR\n"
-"Language-Team: OJSBR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: tr\n"
 
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.displayName"
-msgstr "Gutachterverzeichnis"
+msgstr "Hakem Dizini"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.description"
-msgstr "Fügt eine interne, auf Manager und Redakteure beschränkte Seite hinzu, um alle im Verlag registrierten Gutachter mit ihren Profilen und Begutachtungsstatistiken zu durchsuchen und zu filtern."
+msgstr "Yalnızca yöneticiler ve editörlerin erişebildiği bir iç sayfa ekler; burada yayınevinde kayıtlı tüm hakemler, profilleri ve değerlendirme istatistikleriyle listelenip süzülebilir."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.openDirectory"
-msgstr "Verzeichnis öffnen"
+msgstr "Dizini aç"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.searchPlaceholder"
-msgstr "Suche nach Name, Zugehörigkeit, Land, Interesse, E-Mail..."
+msgstr "Ad, kurum, ülke, ilgi alanı, e-posta ile ara…"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.onlyOrcid"
-msgstr "Nur mit ORCID"
+msgstr "Yalnızca ORCID olanlar"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.showing"
-msgstr "Zeige"
+msgstr "Gösterilen"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.of"
-msgstr "von"
+msgstr "/"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.noReviewers"
-msgstr "Keine Gutachter in diesem Verlag registriert."
+msgstr "Bu yayınevinde kayıtlı hakem yok."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.reviewsCompleted"
-msgstr "Abgeschlossene Gutachten"
+msgstr "Tamamlanan değerlendirmeler"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.reviewsActive"
-msgstr "Laufende Gutachten"
+msgstr "Süren değerlendirmeler"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.reviewsDeclined"
-msgstr "Abgelehnte Gutachten"
+msgstr "Reddedilen değerlendirmeler"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.averageDays"
-msgstr "Durchschnittliche Tage bis zum Abschluss"
+msgstr "Tamamlamaya kadar ortalama gün"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.rating"
-msgstr "Qualitätsbewertung (1 bis 5)"
+msgstr "Kalite puanı (1-5)"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.completedShort"
-msgstr "Abgeschl."
+msgstr "Tamaml."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.activeShort"
-msgstr "Aktiv"
+msgstr "Etkin"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.declinedShort"
-msgstr "Abgel."
+msgstr "Redd."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.averageShort"
-msgstr "Ø (T)"
+msgstr "Ort. (gün)"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.ratingShort"
-msgstr "Bewertung"
+msgstr "Puan"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.lastAssigned"
-msgstr "Letzte Zuweisung"
+msgstr "Son atama"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.lastCompleted"
-msgstr "Letzter Abschluss"
+msgstr "Son tamamlama"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.orcidVerified"
-msgstr "Verifizierte ORCID"
+msgstr "Doğrulanmış ORCID"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.columns"
-msgstr "Spalten"
+msgstr "Sütunlar"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.export"
-msgstr "Export (Excel)"
+msgstr "Dışa aktar (Excel)"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.tabDirectory"
-msgstr "Verzeichnis"
+msgstr "Dizin"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.tabNominata"
-msgstr "Danksagungsliste"
+msgstr "Liste"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.nominataIntro"
-msgstr "Geben Sie einen Zeitraum (Abschlussdatum der Begutachtung) und/oder eine Ausgabe ein, um die Gutachter aufzulisten, die im ausgewählten Bereich Gutachten abgeschlossen haben. Nützlich für die Veröffentlichung der Danksagungsliste der Gutachter."
+msgstr "Seçilen kapsamda değerlendirme tamamlayan hakemleri listelemek için bir dönem (değerlendirmenin tamamlanma tarihi) ve/veya bir sayı girin. Hakemlere teşekkür listesini yayımlamak için kullanışlıdır."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.dateFrom"
-msgstr "Abgeschlossen ab"
+msgstr "Tamamlanma başlangıcı"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.dateTo"
-msgstr "Abgeschlossen bis"
+msgstr "Tamamlanma bitişi"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.series"
-msgstr "Reihe"
+msgstr "Dizi"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.allSeries"
-msgstr "Alle Reihen"
+msgstr "Tüm diziler"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.generate"
-msgstr "Liste erstellen"
+msgstr "Listeyi oluştur"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.nominataEmpty"
-msgstr "Kein Gutachter hat im ausgewählten Bereich Gutachten abgeschlossen."
+msgstr "Seçilen kapsamda hiçbir hakem değerlendirme tamamlamadı."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.nominataSummary"
-msgstr "{$n} Gutachter haben {$reviews} Gutachten im ausgewählten Bereich abgeschlossen."
+msgstr "Seçilen kapsamda {$n} hakem {$reviews} değerlendirme tamamladı."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.reviewsInScope"
-msgstr "Im Bereich abgeschlossene Gutachten"
+msgstr "Seçilen kapsamda tamamlanan değerlendirmeler"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.submissions"
-msgstr "Einreichungen"
+msgstr "Gönderiler"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.firstDate"
-msgstr "Erste"
+msgstr "İlk"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.lastDate"
-msgstr "Letzte"
+msgstr "Son"

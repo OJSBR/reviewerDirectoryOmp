@@ -1,122 +1,157 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"Last-Translator: OJSBR\n"
-"Language-Team: OJSBR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: nb_NO\n"
 
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.displayName"
-msgstr "Gutachterverzeichnis"
+msgstr "Fagfellekatalog"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.description"
-msgstr "Fügt eine interne, auf Manager und Redakteure beschränkte Seite hinzu, um alle im Verlag registrierten Gutachter mit ihren Profilen und Begutachtungsstatistiken zu durchsuchen und zu filtern."
+msgstr "Legger til en intern side, forbeholdt ledere og redaktører, for å bla i og filtrere alle fagfeller som er registrert i forlaget, med profilene og vurderingsstatistikken deres."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.openDirectory"
-msgstr "Verzeichnis öffnen"
+msgstr "Åpne katalogen"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.searchPlaceholder"
-msgstr "Suche nach Name, Zugehörigkeit, Land, Interesse, E-Mail..."
+msgstr "Søk etter navn, tilknytning, land, interesse, e-post …"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.onlyOrcid"
-msgstr "Nur mit ORCID"
+msgstr "Bare med ORCID"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.showing"
-msgstr "Zeige"
+msgstr "Viser"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.of"
-msgstr "von"
+msgstr "av"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.noReviewers"
-msgstr "Keine Gutachter in diesem Verlag registriert."
+msgstr "Det er ingen fagfeller registrert i dette forlaget."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.reviewsCompleted"
-msgstr "Abgeschlossene Gutachten"
+msgstr "Fullførte vurderinger"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.reviewsActive"
-msgstr "Laufende Gutachten"
+msgstr "Pågående vurderinger"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.reviewsDeclined"
-msgstr "Abgelehnte Gutachten"
+msgstr "Avslåtte vurderinger"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.averageDays"
-msgstr "Durchschnittliche Tage bis zum Abschluss"
+msgstr "Gjennomsnittlig antall dager til fullføring"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.rating"
-msgstr "Qualitätsbewertung (1 bis 5)"
+msgstr "Kvalitetsvurdering (1 til 5)"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.completedShort"
-msgstr "Abgeschl."
+msgstr "Fullf."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.activeShort"
 msgstr "Aktiv"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.declinedShort"
-msgstr "Abgel."
+msgstr "Avslått"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.averageShort"
-msgstr "Ø (T)"
+msgstr "Gj.sn. (d)"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.ratingShort"
-msgstr "Bewertung"
+msgstr "Vurdering"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.lastAssigned"
-msgstr "Letzte Zuweisung"
+msgstr "Siste tildeling"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.lastCompleted"
-msgstr "Letzter Abschluss"
+msgstr "Siste fullføring"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.orcidVerified"
-msgstr "Verifizierte ORCID"
+msgstr "Verifisert ORCID"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.columns"
-msgstr "Spalten"
+msgstr "Kolonner"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.export"
-msgstr "Export (Excel)"
+msgstr "Eksporter (Excel)"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.tabDirectory"
-msgstr "Verzeichnis"
+msgstr "Katalog"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.tabNominata"
-msgstr "Danksagungsliste"
+msgstr "Liste"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.nominataIntro"
-msgstr "Geben Sie einen Zeitraum (Abschlussdatum der Begutachtung) und/oder eine Ausgabe ein, um die Gutachter aufzulisten, die im ausgewählten Bereich Gutachten abgeschlossen haben. Nützlich für die Veröffentlichung der Danksagungsliste der Gutachter."
+msgstr "Angi en periode (dato for fullført vurdering) og/eller en utgave for å liste opp fagfellene som fullførte vurderinger i det valgte utvalget. Nyttig for å publisere takkelisten over fagfeller."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.dateFrom"
-msgstr "Abgeschlossen ab"
+msgstr "Fullført fra"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.dateTo"
-msgstr "Abgeschlossen bis"
+msgstr "Fullført til"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.series"
-msgstr "Reihe"
+msgstr "Serie"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.allSeries"
-msgstr "Alle Reihen"
+msgstr "Alle serier"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.generate"
-msgstr "Liste erstellen"
+msgstr "Generer listen"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.nominataEmpty"
-msgstr "Kein Gutachter hat im ausgewählten Bereich Gutachten abgeschlossen."
+msgstr "Ingen fagfeller fullførte vurderinger innenfor det valgte utvalget."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.nominataSummary"
-msgstr "{$n} Gutachter haben {$reviews} Gutachten im ausgewählten Bereich abgeschlossen."
+msgstr "{$n} fagfelle(r) fullførte {$reviews} vurdering(er) innenfor det valgte utvalget."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.reviewsInScope"
-msgstr "Im Bereich abgeschlossene Gutachten"
+msgstr "Vurderinger fullført i utvalget"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.submissions"
-msgstr "Einreichungen"
+msgstr "Innsendinger"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.firstDate"
-msgstr "Erste"
+msgstr "Første"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.lastDate"
-msgstr "Letzte"
+msgstr "Siste"

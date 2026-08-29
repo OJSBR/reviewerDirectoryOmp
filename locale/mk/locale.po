@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: mk\n"
+
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.displayName"
+msgstr "Именик на рецензенти"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.description"
+msgstr "Додава внатрешна страница, достапна само за менаџери и уредници, за прелистување и филтрирање на сите рецензенти регистрирани во издавачката куќа, со нивните профили и статистики за рецензии."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.openDirectory"
+msgstr "Отвори именик"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.searchPlaceholder"
+msgstr "Пребарување по име, институција, земја, интерес, е-пошта…"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.onlyOrcid"
+msgstr "Само со ORCID"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.showing"
+msgstr "Прикажани"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.of"
+msgstr "од"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.noReviewers"
+msgstr "Во оваа издавачка куќа нема регистрирани рецензенти."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsCompleted"
+msgstr "Завршени рецензии"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsActive"
+msgstr "Рецензии во тек"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsDeclined"
+msgstr "Одбиени рецензии"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.averageDays"
+msgstr "Просечни денови до завршување"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.rating"
+msgstr "Оцена за квалитет (од 1 до 5)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.completedShort"
+msgstr "Заврш."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.activeShort"
+msgstr "Активен"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.declinedShort"
+msgstr "Одбиени"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.averageShort"
+msgstr "Прос. (дена)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.ratingShort"
+msgstr "Оцена"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastAssigned"
+msgstr "Последна доделба"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastCompleted"
+msgstr "Последно завршување"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.orcidVerified"
+msgstr "Потврден ORCID"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.columns"
+msgstr "Колони"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.export"
+msgstr "Извези (Excel)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.tabDirectory"
+msgstr "Именик"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.tabNominata"
+msgstr "Листа"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataIntro"
+msgstr "Внесете период (датум на завршување на рецензијата) и/или издание за да ги наведете рецензентите што завршиле рецензии во избраниот опфат. Корисно за објавување на списокот со благодарност до рецензентите."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.dateFrom"
+msgstr "Завршени од"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.dateTo"
+msgstr "Завршени до"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.series"
+msgstr "Едиција"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.allSeries"
+msgstr "Сите едиции"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.generate"
+msgstr "Генерирај листа"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataEmpty"
+msgstr "Ниту еден рецензент не завршил рецензија во избраниот опфат."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataSummary"
+msgstr "{$n} рецензенти завршија {$reviews} рецензии во избраниот опфат."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsInScope"
+msgstr "Рецензии завршени во опфатот"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.submissions"
+msgstr "Поднесоци"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.firstDate"
+msgstr "Прва"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastDate"
+msgstr "Последна"

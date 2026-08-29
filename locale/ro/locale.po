@@ -1,122 +1,157 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"Last-Translator: OJSBR\n"
-"Language-Team: OJSBR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ro\n"
 
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.displayName"
-msgstr "Gutachterverzeichnis"
+msgstr "Director de recenzenți"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.description"
-msgstr "Fügt eine interne, auf Manager und Redakteure beschränkte Seite hinzu, um alle im Verlag registrierten Gutachter mit ihren Profilen und Begutachtungsstatistiken zu durchsuchen und zu filtern."
+msgstr "Adaugă o pagină internă, rezervată managerilor și editorilor, pentru a parcurge și filtra toți recenzenții înregistrați la editură, cu profilurile și statisticile lor de recenzare."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.openDirectory"
-msgstr "Verzeichnis öffnen"
+msgstr "Deschide directorul"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.searchPlaceholder"
-msgstr "Suche nach Name, Zugehörigkeit, Land, Interesse, E-Mail..."
+msgstr "Căutare după nume, afiliere, țară, interes, e-mail…"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.onlyOrcid"
-msgstr "Nur mit ORCID"
+msgstr "Doar cu ORCID"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.showing"
-msgstr "Zeige"
+msgstr "Se afișează"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.of"
-msgstr "von"
+msgstr "din"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.noReviewers"
-msgstr "Keine Gutachter in diesem Verlag registriert."
+msgstr "Nu există recenzenți înregistrați la această editură."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.reviewsCompleted"
-msgstr "Abgeschlossene Gutachten"
+msgstr "Recenzii finalizate"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.reviewsActive"
-msgstr "Laufende Gutachten"
+msgstr "Recenzii în curs"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.reviewsDeclined"
-msgstr "Abgelehnte Gutachten"
+msgstr "Recenzii refuzate"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.averageDays"
-msgstr "Durchschnittliche Tage bis zum Abschluss"
+msgstr "Media zilelor până la finalizare"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.rating"
-msgstr "Qualitätsbewertung (1 bis 5)"
+msgstr "Evaluare a calității (1 la 5)"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.completedShort"
-msgstr "Abgeschl."
+msgstr "Finaliz."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.activeShort"
-msgstr "Aktiv"
+msgstr "Activ"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.declinedShort"
-msgstr "Abgel."
+msgstr "Refuz."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.averageShort"
-msgstr "Ø (T)"
+msgstr "Med. (z)"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.ratingShort"
-msgstr "Bewertung"
+msgstr "Evaluare"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.lastAssigned"
-msgstr "Letzte Zuweisung"
+msgstr "Ultima atribuire"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.lastCompleted"
-msgstr "Letzter Abschluss"
+msgstr "Ultima finalizare"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.orcidVerified"
-msgstr "Verifizierte ORCID"
+msgstr "ORCID verificat"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.columns"
-msgstr "Spalten"
+msgstr "Coloane"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.export"
 msgstr "Export (Excel)"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.tabDirectory"
-msgstr "Verzeichnis"
+msgstr "Director"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.tabNominata"
-msgstr "Danksagungsliste"
+msgstr "Listă"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.nominataIntro"
-msgstr "Geben Sie einen Zeitraum (Abschlussdatum der Begutachtung) und/oder eine Ausgabe ein, um die Gutachter aufzulisten, die im ausgewählten Bereich Gutachten abgeschlossen haben. Nützlich für die Veröffentlichung der Danksagungsliste der Gutachter."
+msgstr "Introduceți o perioadă (data finalizării recenziei) și/sau un număr pentru a lista recenzenții care au finalizat recenzii în intervalul selectat. Util pentru publicarea listei de mulțumiri adresate recenzenților."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.dateFrom"
-msgstr "Abgeschlossen ab"
+msgstr "Finalizate de la"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.dateTo"
-msgstr "Abgeschlossen bis"
+msgstr "Finalizate până la"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.series"
-msgstr "Reihe"
+msgstr "Serie"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.allSeries"
-msgstr "Alle Reihen"
+msgstr "Toate seriile"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.generate"
-msgstr "Liste erstellen"
+msgstr "Generează lista"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.nominataEmpty"
-msgstr "Kein Gutachter hat im ausgewählten Bereich Gutachten abgeschlossen."
+msgstr "Niciun recenzent nu a finalizat recenzii în intervalul selectat."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.nominataSummary"
-msgstr "{$n} Gutachter haben {$reviews} Gutachten im ausgewählten Bereich abgeschlossen."
+msgstr "{$n} recenzent(i) au finalizat {$reviews} recenzii în intervalul selectat."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.reviewsInScope"
-msgstr "Im Bereich abgeschlossene Gutachten"
+msgstr "Recenzii finalizate în intervalul selectat"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.submissions"
-msgstr "Einreichungen"
+msgstr "Propuneri"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.firstDate"
-msgstr "Erste"
+msgstr "Prima"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.lastDate"
-msgstr "Letzte"
+msgstr "Ultima"

@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: el\n"
+
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.displayName"
+msgstr "Κατάλογος αξιολογητών"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.description"
+msgstr "Προσθέτει εσωτερική σελίδα, μόνο για διαχειριστές και επιμελητές, για περιήγηση και φιλτράρισμα όλων των αξιολογητών που είναι εγγεγραμμένοι στον εκδοτικό οίκο, με τα προφίλ και τα στατιστικά αξιολογήσεών τους."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.openDirectory"
+msgstr "Άνοιγμα καταλόγου"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.searchPlaceholder"
+msgstr "Αναζήτηση με όνομα, φορέα, χώρα, ενδιαφέρον, email…"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.onlyOrcid"
+msgstr "Μόνο με ORCID"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.showing"
+msgstr "Εμφανίζονται"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.of"
+msgstr "από"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.noReviewers"
+msgstr "Δεν υπάρχουν εγγεγραμμένοι αξιολογητές σε αυτόν τον εκδοτικό οίκο."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsCompleted"
+msgstr "Ολοκληρωμένες αξιολογήσεις"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsActive"
+msgstr "Αξιολογήσεις σε εξέλιξη"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsDeclined"
+msgstr "Απορριφθείσες αξιολογήσεις"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.averageDays"
+msgstr "Μέσος αριθμός ημερών ολοκλήρωσης"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.rating"
+msgstr "Βαθμολογία ποιότητας (1 έως 5)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.completedShort"
+msgstr "Ολοκλ."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.activeShort"
+msgstr "Ενεργός"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.declinedShort"
+msgstr "Απορρ."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.averageShort"
+msgstr "Μ.Ο. (ημ.)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.ratingShort"
+msgstr "Βαθμολογία"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastAssigned"
+msgstr "Τελευταία ανάθεση"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastCompleted"
+msgstr "Τελευταία ολοκλήρωση"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.orcidVerified"
+msgstr "Επαληθευμένο ORCID"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.columns"
+msgstr "Στήλες"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.export"
+msgstr "Εξαγωγή (Excel)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.tabDirectory"
+msgstr "Κατάλογος"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.tabNominata"
+msgstr "Λίστα"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataIntro"
+msgstr "Εισαγάγετε περίοδο (ημερομηνία ολοκλήρωσης αξιολόγησης) ή/και τεύχος για να εμφανιστούν οι αξιολογητές που ολοκλήρωσαν αξιολογήσεις στο επιλεγμένο εύρος. Χρήσιμο για τη δημοσίευση της λίστας ευχαριστιών προς τους αξιολογητές."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.dateFrom"
+msgstr "Ολοκληρώθηκαν από"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.dateTo"
+msgstr "Ολοκληρώθηκαν έως"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.series"
+msgstr "Σειρά"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.allSeries"
+msgstr "Όλες οι σειρές"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.generate"
+msgstr "Δημιουργία λίστας"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataEmpty"
+msgstr "Κανένας αξιολογητής δεν ολοκλήρωσε αξιολογήσεις στο επιλεγμένο εύρος."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataSummary"
+msgstr "{$n} αξιολογητές ολοκλήρωσαν {$reviews} αξιολογήσεις στο επιλεγμένο εύρος."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsInScope"
+msgstr "Αξιολογήσεις που ολοκληρώθηκαν στο εύρος"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.submissions"
+msgstr "Υποβολές"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.firstDate"
+msgstr "Πρώτη"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastDate"
+msgstr "Τελευταία"

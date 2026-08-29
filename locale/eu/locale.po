@@ -1,122 +1,157 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"Last-Translator: OJSBR\n"
-"Language-Team: OJSBR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: eu\n"
 
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.displayName"
-msgstr "Gutachterverzeichnis"
+msgstr "Ebaluatzaileen direktorioa"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.description"
-msgstr "Fügt eine interne, auf Manager und Redakteure beschränkte Seite hinzu, um alle im Verlag registrierten Gutachter mit ihren Profilen und Begutachtungsstatistiken zu durchsuchen und zu filtern."
+msgstr "Barne-orri bat gehitzen du, kudeatzaile eta editoreentzat soilik, argitaletxean erregistratutako ebaluatzaile guztiak arakatzeko eta iragazteko, haien profilekin eta ebaluazio-estatistikekin."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.openDirectory"
-msgstr "Verzeichnis öffnen"
+msgstr "Ireki direktorioa"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.searchPlaceholder"
-msgstr "Suche nach Name, Zugehörigkeit, Land, Interesse, E-Mail..."
+msgstr "Bilatu izenaren, erakundearen, herrialdearen, intereseko gaiaren edo helbide elektronikoaren arabera…"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.onlyOrcid"
-msgstr "Nur mit ORCID"
+msgstr "ORCIDekin soilik"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.showing"
-msgstr "Zeige"
+msgstr "Erakusten"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.of"
-msgstr "von"
+msgstr "/"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.noReviewers"
-msgstr "Keine Gutachter in diesem Verlag registriert."
+msgstr "Argitaletxe honetan ez dago ebaluatzailerik erregistratuta."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.reviewsCompleted"
-msgstr "Abgeschlossene Gutachten"
+msgstr "Osatutako ebaluazioak"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.reviewsActive"
-msgstr "Laufende Gutachten"
+msgstr "Abian diren ebaluazioak"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.reviewsDeclined"
-msgstr "Abgelehnte Gutachten"
+msgstr "Ukatutako ebaluazioak"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.averageDays"
-msgstr "Durchschnittliche Tage bis zum Abschluss"
+msgstr "Osatzeko batez besteko egunak"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.rating"
-msgstr "Qualitätsbewertung (1 bis 5)"
+msgstr "Kalitate balorazioa (1etik 5era)"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.completedShort"
-msgstr "Abgeschl."
+msgstr "Osatuta"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.activeShort"
-msgstr "Aktiv"
+msgstr "Aktiboa"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.declinedShort"
-msgstr "Abgel."
+msgstr "Ukatuta"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.averageShort"
-msgstr "Ø (T)"
+msgstr "Batez b. (e)"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.ratingShort"
-msgstr "Bewertung"
+msgstr "Balorazioa"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.lastAssigned"
-msgstr "Letzte Zuweisung"
+msgstr "Azken esleipena"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.lastCompleted"
-msgstr "Letzter Abschluss"
+msgstr "Azken osatzea"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.orcidVerified"
-msgstr "Verifizierte ORCID"
+msgstr "ORCID egiaztatua"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.columns"
-msgstr "Spalten"
+msgstr "Zutabeak"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.export"
-msgstr "Export (Excel)"
+msgstr "Esportatu (Excel)"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.tabDirectory"
-msgstr "Verzeichnis"
+msgstr "Direktorioa"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.tabNominata"
-msgstr "Danksagungsliste"
+msgstr "Zerrenda"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.nominataIntro"
-msgstr "Geben Sie einen Zeitraum (Abschlussdatum der Begutachtung) und/oder eine Ausgabe ein, um die Gutachter aufzulisten, die im ausgewählten Bereich Gutachten abgeschlossen haben. Nützlich für die Veröffentlichung der Danksagungsliste der Gutachter."
+msgstr "Sartu aldi bat (ebaluazioa amaitzeko data) eta/edo zenbaki bat, aukeratutako esparruan ebaluazioak osatu dituzten ebaluatzaileak zerrendatzeko. Ebaluatzaileei esker emateko zerrenda argitaratzeko baliagarria."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.dateFrom"
-msgstr "Abgeschlossen ab"
+msgstr "Osatuta noiztik"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.dateTo"
-msgstr "Abgeschlossen bis"
+msgstr "Osatuta noiz arte"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.series"
-msgstr "Reihe"
+msgstr "Seriea"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.allSeries"
-msgstr "Alle Reihen"
+msgstr "Serie guztiak"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.generate"
-msgstr "Liste erstellen"
+msgstr "Sortu zerrenda"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.nominataEmpty"
-msgstr "Kein Gutachter hat im ausgewählten Bereich Gutachten abgeschlossen."
+msgstr "Aukeratutako esparruan ez du ebaluatzailerik ebaluaziorik osatu."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.nominataSummary"
-msgstr "{$n} Gutachter haben {$reviews} Gutachten im ausgewählten Bereich abgeschlossen."
+msgstr "{$n} ebaluatzailek {$reviews} ebaluazio osatu dituzte aukeratutako esparruan."
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.reviewsInScope"
-msgstr "Im Bereich abgeschlossene Gutachten"
+msgstr "Aukeratutako esparruan osatutako ebaluazioak"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.submissions"
-msgstr "Einreichungen"
+msgstr "Bidalketak"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.firstDate"
-msgstr "Erste"
+msgstr "Lehena"
 
+#, fuzzy
 msgid "plugins.generic.reviewerDirectory.lastDate"
-msgstr "Letzte"
+msgstr "Azkena"

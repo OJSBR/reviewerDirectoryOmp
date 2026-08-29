@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ar\n"
+
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.displayName"
+msgstr "دليل المحكّمين"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.description"
+msgstr "يضيف صفحة داخلية، مقصورة على المديرين والمحرّرين، لتصفّح وتصفية كل محكّم مسجَّل في دار النشر، مع ملفاتهم الشخصية وإحصاءات تحكيمهم."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.openDirectory"
+msgstr "فتح الدليل"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.searchPlaceholder"
+msgstr "ابحث بالاسم أو الانتماء أو البلد أو الاهتمام أو البريد…"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.onlyOrcid"
+msgstr "مع ORCID فقط"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.showing"
+msgstr "عرض"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.of"
+msgstr "من"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.noReviewers"
+msgstr "لا يوجد محكّمون مسجَّلون في دار النشر هذه."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsCompleted"
+msgstr "التحكيمات المنجَزة"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsActive"
+msgstr "التحكيمات الجارية"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsDeclined"
+msgstr "التحكيمات المرفوضة"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.averageDays"
+msgstr "متوسط أيام الإنجاز"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.rating"
+msgstr "تقييم الجودة (من 1 إلى 5)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.completedShort"
+msgstr "منجَزة"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.activeShort"
+msgstr "نشط"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.declinedShort"
+msgstr "مرفوضة"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.averageShort"
+msgstr "متوسط (يوم)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.ratingShort"
+msgstr "التقييم"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastAssigned"
+msgstr "آخر إسناد"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastCompleted"
+msgstr "آخر إنجاز"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.orcidVerified"
+msgstr "ORCID موثَّق"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.columns"
+msgstr "الأعمدة"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.export"
+msgstr "تصدير (Excel)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.tabDirectory"
+msgstr "الدليل"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.tabNominata"
+msgstr "القائمة"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataIntro"
+msgstr "أدخل فترة (تاريخ إنجاز التحكيم) و/أو عدداً لسرد المحكّمين الذين أنجزوا تحكيمات ضمن النطاق المحدَّد. مفيد لنشر قائمة شكر المحكّمين."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.dateFrom"
+msgstr "منجَزة من"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.dateTo"
+msgstr "منجَزة حتى"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.series"
+msgstr "السلسلة"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.allSeries"
+msgstr "كل السلاسل"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.generate"
+msgstr "توليد القائمة"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataEmpty"
+msgstr "لم يُنجز أي محكّم تحكيمات ضمن النطاق المحدَّد."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataSummary"
+msgstr "أنجز {$n} محكّم(ون) {$reviews} تحكيماً ضمن النطاق المحدَّد."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsInScope"
+msgstr "التحكيمات المنجَزة ضمن النطاق"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.submissions"
+msgstr "الطلبات"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.firstDate"
+msgstr "الأولى"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastDate"
+msgstr "الأخيرة"

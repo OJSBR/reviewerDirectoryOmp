@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: vi\n"
+
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.displayName"
+msgstr "Danh bạ người phản biện"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.description"
+msgstr "Thêm một trang nội bộ, chỉ dành cho quản lý và biên tập viên, để duyệt và lọc toàn bộ người phản biện đã đăng ký với nhà xuất bản, kèm hồ sơ và thống kê phản biện của họ."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.openDirectory"
+msgstr "Mở danh bạ"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.searchPlaceholder"
+msgstr "Tìm theo tên, đơn vị, quốc gia, lĩnh vực quan tâm, email…"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.onlyOrcid"
+msgstr "Chỉ có ORCID"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.showing"
+msgstr "Đang hiển thị"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.of"
+msgstr "trên"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.noReviewers"
+msgstr "Chưa có người phản biện nào đăng ký với nhà xuất bản này."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsCompleted"
+msgstr "Phản biện đã hoàn tất"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsActive"
+msgstr "Phản biện đang thực hiện"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsDeclined"
+msgstr "Phản biện bị từ chối"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.averageDays"
+msgstr "Số ngày trung bình để hoàn thành"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.rating"
+msgstr "Đánh giá chất lượng (1 đến 5)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.completedShort"
+msgstr "Hoàn tất"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.activeShort"
+msgstr "Đang hoạt động"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.declinedShort"
+msgstr "Từ chối"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.averageShort"
+msgstr "TB (ngày)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.ratingShort"
+msgstr "Đánh giá"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastAssigned"
+msgstr "Lần giao gần nhất"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastCompleted"
+msgstr "Lần hoàn tất gần nhất"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.orcidVerified"
+msgstr "ORCID đã xác minh"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.columns"
+msgstr "Cột"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.export"
+msgstr "Xuất (Excel)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.tabDirectory"
+msgstr "Danh bạ"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.tabNominata"
+msgstr "Danh sách"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataIntro"
+msgstr "Nhập khoảng thời gian (ngày hoàn tất phản biện) và/hoặc số tạp chí để liệt kê những người phản biện đã hoàn tất phản biện trong phạm vi đã chọn. Hữu ích khi công bố danh sách cảm ơn người phản biện."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.dateFrom"
+msgstr "Hoàn tất từ"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.dateTo"
+msgstr "Hoàn tất đến"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.series"
+msgstr "Bộ sách"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.allSeries"
+msgstr "Tất cả các bộ"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.generate"
+msgstr "Tạo danh sách"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataEmpty"
+msgstr "Không có người phản biện nào hoàn tất phản biện trong phạm vi đã chọn."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataSummary"
+msgstr "{$n} người phản biện đã hoàn tất {$reviews} bản phản biện trong phạm vi đã chọn."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsInScope"
+msgstr "Phản biện hoàn tất trong phạm vi"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.submissions"
+msgstr "Bài nộp"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.firstDate"
+msgstr "Đầu"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastDate"
+msgstr "Cuối"

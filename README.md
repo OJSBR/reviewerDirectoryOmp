@@ -1,10 +1,10 @@
 # Reviewer Directory — OMP plugin
 
 [![OMP](https://img.shields.io/badge/OMP-3.5-brightgreen)](https://pkp.sfu.ca/omp/)
-[![Version](https://img.shields.io/badge/version-1.0.0.2-blue)](version.xml)
+[![Version](https://img.shields.io/badge/version-1.0.0.3-blue)](version.xml)
 [![License](https://img.shields.io/badge/license-GPL--3.0-lightgrey)](LICENSE)
 
-**⬇️ Install package:** [OMP 3.5](https://github.com/OJSBR/reviewerDirectoryOmp/releases/download/1.0.0.2-omp3.5/reviewerDirectory-1.0.0.2-omp3.5.tar.gz) — or browse all [Releases](../../releases).
+**⬇️ Install package:** [OMP 3.5](https://github.com/OJSBR/reviewerDirectoryOmp/releases/download/1.0.0.3/reviewerDirectory-1.0.0.3.tar.gz) — or browse all [Releases](../../releases).
 
 A generic plugin for **Open Monograph Press (OMP)** that adds an **internal, editor-only
 directory of reviewers** — pulling the accounts that already hold the *Reviewer* role in the
@@ -18,7 +18,7 @@ a period or issue, ready to publish as an acknowledgement.
 
 | OMP version | Branch | Plugin release |
 |-------------|--------|----------------|
-| OMP 3.5.x   | [`stable-3_5_0`](../../tree/stable-3_5_0) *(default)* | 1.0.0.2 |
+| OMP 3.5.x   | [`stable-3_5_0`](../../tree/stable-3_5_0) *(default)* | 1.0.0.3 |
 
 **Looking for the OJS edition?** It lives in its own repository,
 [OJSBR/reviewerDirectory](https://github.com/OJSBR/reviewerDirectory). This repository is the same plugin with the
@@ -117,7 +117,7 @@ por período ou edição, pronta para publicar como agradecimento.
 
 | Versão do OMP | Branch | Release do plugin |
 |---------------|--------|-------------------|
-| OMP 3.5.x     | [`stable-3_5_0`](../../tree/stable-3_5_0) *(padrão)* | 1.0.0.2 |
+| OMP 3.5.x     | [`stable-3_5_0`](../../tree/stable-3_5_0) *(padrão)* | 1.0.0.3 |
 
 **Procurando a versão de OJS?** Ela tem repositório próprio,
 [OJSBR/reviewerDirectory](https://github.com/OJSBR/reviewerDirectory). Este repositório é o mesmo plugin com a

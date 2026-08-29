@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: uk\n"
+
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.displayName"
+msgstr "Каталог рецензентів"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.description"
+msgstr "Додає внутрішню сторінку, доступну лише менеджерам і редакторам, для перегляду та фільтрування всіх рецензентів, зареєстрованих у видавництві, з їхніми профілями та статистикою рецензування."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.openDirectory"
+msgstr "Відкрити каталог"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.searchPlaceholder"
+msgstr "Пошук за іменем, установою, країною, інтересами, поштою…"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.onlyOrcid"
+msgstr "Лише з ORCID"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.showing"
+msgstr "Показано"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.of"
+msgstr "з"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.noReviewers"
+msgstr "У цьому видавництві немає зареєстрованих рецензентів."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsCompleted"
+msgstr "Завершені рецензії"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsActive"
+msgstr "Рецензії в роботі"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsDeclined"
+msgstr "Відхилені рецензії"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.averageDays"
+msgstr "Середня кількість днів до завершення"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.rating"
+msgstr "Оцінка якості (від 1 до 5)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.completedShort"
+msgstr "Заверш."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.activeShort"
+msgstr "Активний"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.declinedShort"
+msgstr "Відхил."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.averageShort"
+msgstr "Сер. (дн.)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.ratingShort"
+msgstr "Оцінка"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastAssigned"
+msgstr "Останнє призначення"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastCompleted"
+msgstr "Останнє завершення"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.orcidVerified"
+msgstr "Підтверджений ORCID"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.columns"
+msgstr "Стовпці"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.export"
+msgstr "Експорт (Excel)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.tabDirectory"
+msgstr "Каталог"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.tabNominata"
+msgstr "Список"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataIntro"
+msgstr "Укажіть період (дату завершення рецензії) та/або випуск, щоб отримати список рецензентів, які завершили рецензії у вибраному діапазоні. Зручно для публікації списку подяк рецензентам."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.dateFrom"
+msgstr "Завершені з"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.dateTo"
+msgstr "Завершені до"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.series"
+msgstr "Серія"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.allSeries"
+msgstr "Усі серії"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.generate"
+msgstr "Сформувати список"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataEmpty"
+msgstr "У вибраному діапазоні жоден рецензент не завершив рецензій."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataSummary"
+msgstr "{$n} рецензентів завершили {$reviews} рецензій у вибраному діапазоні."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsInScope"
+msgstr "Рецензії, завершені у вибраному діапазоні"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.submissions"
+msgstr "Подання"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.firstDate"
+msgstr "Перша"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastDate"
+msgstr "Остання"

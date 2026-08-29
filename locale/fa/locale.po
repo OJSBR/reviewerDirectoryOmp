@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: fa\n"
+
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.displayName"
+msgstr "فهرست داوران"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.description"
+msgstr "صفحه‌ای داخلی، ویژهٔ مدیران و سردبیران، برای مرور و صافی‌کردن همهٔ داوران ثبت‌شده در انتشارات، همراه با نمایه و آمار داوری آنان می‌افزاید."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.openDirectory"
+msgstr "باز کردن فهرست"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.searchPlaceholder"
+msgstr "جست‌وجو بر پایهٔ نام، وابستگی، کشور، حوزهٔ علاقه، ایمیل…"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.onlyOrcid"
+msgstr "فقط با ORCID"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.showing"
+msgstr "نمایش"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.of"
+msgstr "از"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.noReviewers"
+msgstr "در این انتشارات هیچ داوری ثبت نشده است."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsCompleted"
+msgstr "داوری‌های تکمیل‌شده"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsActive"
+msgstr "داوری‌های در جریان"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsDeclined"
+msgstr "داوری‌های رد‌شده"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.averageDays"
+msgstr "میانگین روزهای تکمیل"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.rating"
+msgstr "امتیاز کیفیت (۱ تا ۵)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.completedShort"
+msgstr "تکمیل"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.activeShort"
+msgstr "فعال"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.declinedShort"
+msgstr "رد"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.averageShort"
+msgstr "میانگین (روز)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.ratingShort"
+msgstr "امتیاز"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastAssigned"
+msgstr "آخرین تخصیص"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastCompleted"
+msgstr "آخرین تکمیل"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.orcidVerified"
+msgstr "ORCID تأییدشده"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.columns"
+msgstr "ستون‌ها"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.export"
+msgstr "برون‌بری (Excel)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.tabDirectory"
+msgstr "فهرست"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.tabNominata"
+msgstr "فهرست"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataIntro"
+msgstr "برای فهرست‌کردن داورانی که در بازهٔ انتخابی داوری تکمیل کرده‌اند، یک بازهٔ زمانی (تاریخ تکمیل داوری) و/یا یک شماره وارد کنید. برای انتشار فهرست قدردانی از داوران کاربرد دارد."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.dateFrom"
+msgstr "تکمیل‌شده از"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.dateTo"
+msgstr "تکمیل‌شده تا"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.series"
+msgstr "مجموعه"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.allSeries"
+msgstr "همهٔ مجموعه‌ها"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.generate"
+msgstr "ساخت فهرست"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataEmpty"
+msgstr "هیچ داوری در بازهٔ انتخابی داوری تکمیل نکرده است."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataSummary"
+msgstr "{$n} داور در بازهٔ انتخابی {$reviews} داوری را تکمیل کرده‌اند."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsInScope"
+msgstr "داوری‌های تکمیل‌شده در بازهٔ انتخابی"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.submissions"
+msgstr "ارسال‌ها"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.firstDate"
+msgstr "نخست"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastDate"
+msgstr "آخر"

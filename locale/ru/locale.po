@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ru\n"
+
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.displayName"
+msgstr "Каталог рецензентов"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.description"
+msgstr "Добавляет внутреннюю страницу, доступную только менеджерам и редакторам, для просмотра и фильтрации всех рецензентов, зарегистрированных в издательстве, с их профилями и статистикой рецензирования."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.openDirectory"
+msgstr "Открыть каталог"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.searchPlaceholder"
+msgstr "Поиск по имени, организации, стране, интересам, почте…"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.onlyOrcid"
+msgstr "Только с ORCID"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.showing"
+msgstr "Показано"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.of"
+msgstr "из"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.noReviewers"
+msgstr "В этом издательстве нет зарегистрированных рецензентов."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsCompleted"
+msgstr "Завершённые рецензии"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsActive"
+msgstr "Рецензии в работе"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsDeclined"
+msgstr "Отклонённые рецензии"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.averageDays"
+msgstr "Среднее число дней до завершения"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.rating"
+msgstr "Оценка качества (от 1 до 5)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.completedShort"
+msgstr "Заверш."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.activeShort"
+msgstr "Активен"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.declinedShort"
+msgstr "Откл."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.averageShort"
+msgstr "Ср. (дн.)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.ratingShort"
+msgstr "Оценка"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastAssigned"
+msgstr "Последнее назначение"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastCompleted"
+msgstr "Последнее завершение"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.orcidVerified"
+msgstr "Подтверждённый ORCID"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.columns"
+msgstr "Столбцы"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.export"
+msgstr "Экспорт (Excel)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.tabDirectory"
+msgstr "Каталог"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.tabNominata"
+msgstr "Список"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataIntro"
+msgstr "Укажите период (дату завершения рецензии) и/или выпуск, чтобы получить список рецензентов, завершивших рецензии в выбранном диапазоне. Удобно для публикации списка благодарностей рецензентам."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.dateFrom"
+msgstr "Завершены с"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.dateTo"
+msgstr "Завершены по"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.series"
+msgstr "Серия"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.allSeries"
+msgstr "Все серии"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.generate"
+msgstr "Сформировать список"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataEmpty"
+msgstr "В выбранном диапазоне ни один рецензент не завершил рецензии."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataSummary"
+msgstr "{$n} рецензентов завершили {$reviews} рецензий в выбранном диапазоне."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsInScope"
+msgstr "Рецензии, завершённые в выбранном диапазоне"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.submissions"
+msgstr "Подачи"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.firstDate"
+msgstr "Первая"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastDate"
+msgstr "Последняя"

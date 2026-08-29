@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: hy\n"
+
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.displayName"
+msgstr "Գրախոսների ցուցակ"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.description"
+msgstr "Ավելացնում է ներքին էջ՝ հասանելի միայն կառավարիչներին և խմբագիրներին, որտեղ կարելի է դիտել և զտել հրատարակչությունում գրանցված բոլոր գրախոսներին՝ իրենց պրոֆիլներով և գրախոսությունների վիճակագրությամբ։"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.openDirectory"
+msgstr "Բացել ցուցակը"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.searchPlaceholder"
+msgstr "Որոնել ըստ անվան, կազմակերպության, երկրի, հետաքրքրության, էլ. փոստի…"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.onlyOrcid"
+msgstr "Միայն ORCID-ով"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.showing"
+msgstr "Ցուցադրվում է"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.of"
+msgstr "-ից"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.noReviewers"
+msgstr "Այս հրատարակչությունում գրանցված գրախոսներ չկան։"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsCompleted"
+msgstr "Ավարտված գրախոսություններ"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsActive"
+msgstr "Ընթացիկ գրախոսություններ"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsDeclined"
+msgstr "Մերժված գրախոսություններ"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.averageDays"
+msgstr "Ավարտի միջին օրերը"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.rating"
+msgstr "Որակի գնահատական (1-ից 5)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.completedShort"
+msgstr "Ավարտ."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.activeShort"
+msgstr "Ակտիվ"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.declinedShort"
+msgstr "Մերժ."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.averageShort"
+msgstr "Միջ. (օր)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.ratingShort"
+msgstr "Գնահատական"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastAssigned"
+msgstr "Վերջին նշանակումը"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastCompleted"
+msgstr "Վերջին ավարտը"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.orcidVerified"
+msgstr "Հաստատված ORCID"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.columns"
+msgstr "Սյունակներ"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.export"
+msgstr "Արտահանել (Excel)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.tabDirectory"
+msgstr "Ցուցակ"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.tabNominata"
+msgstr "Ցանկ"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataIntro"
+msgstr "Մուտքագրեք ժամանակահատված (գրախոսության ավարտի ամսաթիվ) և/կամ համար՝ ցուցակելու համար այն գրախոսներին, ովքեր ավարտել են գրախոսություններ ընտրված շրջանակում։ Հարմար է գրախոսներին շնորհակալության ցանկը հրապարակելու համար։"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.dateFrom"
+msgstr "Ավարտված՝ սկսած"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.dateTo"
+msgstr "Ավարտված՝ մինչև"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.series"
+msgstr "Շարք"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.allSeries"
+msgstr "Բոլոր շարքերը"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.generate"
+msgstr "Ստեղծել ցանկը"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataEmpty"
+msgstr "Ընտրված շրջանակում ոչ մի գրախոս գրախոսություն չի ավարտել։"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataSummary"
+msgstr "{$n} գրախոս ավարտել է {$reviews} գրախոսություն ընտրված շրջանակում։"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsInScope"
+msgstr "Ընտրված շրջանակում ավարտված գրախոսություններ"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.submissions"
+msgstr "Ներկայացումներ"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.firstDate"
+msgstr "Առաջին"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastDate"
+msgstr "Վերջին"

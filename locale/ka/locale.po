@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ka\n"
+
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.displayName"
+msgstr "რეცენზენტთა დირექტორია"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.description"
+msgstr "ამატებს შიდა გვერდს, ხელმისაწვდომს მხოლოდ მენეჯერებისა და რედაქტორებისთვის, სადაც შეიძლება გამომცემლობაში რეგისტრირებული ყველა რეცენზენტის დათვალიერება და გაფილტვრა მათი პროფილებითა და რეცენზიების სტატისტიკით."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.openDirectory"
+msgstr "დირექტორიის გახსნა"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.searchPlaceholder"
+msgstr "ძებნა სახელით, აფილიაციით, ქვეყნით, ინტერესით, ელფოსტით…"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.onlyOrcid"
+msgstr "მხოლოდ ORCID-ით"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.showing"
+msgstr "ნაჩვენებია"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.of"
+msgstr "-დან"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.noReviewers"
+msgstr "ამ გამომცემლობაში რეგისტრირებული რეცენზენტები არ არის."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsCompleted"
+msgstr "დასრულებული რეცენზიები"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsActive"
+msgstr "მიმდინარე რეცენზიები"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsDeclined"
+msgstr "უარყოფილი რეცენზიები"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.averageDays"
+msgstr "დასრულების საშუალო დღეები"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.rating"
+msgstr "ხარისხის შეფასება (1-დან 5-მდე)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.completedShort"
+msgstr "დასრ."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.activeShort"
+msgstr "აქტიური"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.declinedShort"
+msgstr "უარყ."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.averageShort"
+msgstr "საშ. (დღე)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.ratingShort"
+msgstr "შეფასება"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastAssigned"
+msgstr "ბოლო დავალება"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastCompleted"
+msgstr "ბოლო დასრულება"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.orcidVerified"
+msgstr "დადასტურებული ORCID"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.columns"
+msgstr "სვეტები"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.export"
+msgstr "ექსპორტი (Excel)"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.tabDirectory"
+msgstr "დირექტორია"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.tabNominata"
+msgstr "სია"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataIntro"
+msgstr "შეიყვანეთ პერიოდი (რეცენზიის დასრულების თარიღი) და/ან ნომერი, რომ ჩამოთვალოთ ის რეცენზენტები, რომლებმაც არჩეულ ფარგლებში დაასრულეს რეცენზიები. სასარგებლოა რეცენზენტთა მადლობის სიის გამოსაქვეყნებლად."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.dateFrom"
+msgstr "დასრულებული — დან"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.dateTo"
+msgstr "დასრულებული — მდე"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.series"
+msgstr "სერია"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.allSeries"
+msgstr "ყველა სერია"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.generate"
+msgstr "სიის შექმნა"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataEmpty"
+msgstr "არჩეულ ფარგლებში არცერთ რეცენზენტს რეცენზია არ დაუსრულებია."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.nominataSummary"
+msgstr "{$n} რეცენზენტმა დაასრულა {$reviews} რეცენზია არჩეულ ფარგლებში."
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.reviewsInScope"
+msgstr "არჩეულ ფარგლებში დასრულებული რეცენზიები"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.submissions"
+msgstr "წარდგინებები"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.firstDate"
+msgstr "პირველი"
+
+#, fuzzy
+msgid "plugins.generic.reviewerDirectory.lastDate"
+msgstr "ბოლო"
